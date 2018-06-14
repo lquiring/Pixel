@@ -1,4 +1,5 @@
-#Pixel
+Pixel
+
 This program is intended to:
 - Read in a file image as the source image
 - Create a window
